@@ -1,1 +1,1 @@
-com.kabul.github.io
+com.kabul
